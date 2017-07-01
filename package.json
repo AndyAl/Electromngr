@@ -20,18 +20,19 @@
     "file-loader": "^0.10.1",
     "glob": "^7.1.1",
     "path-complete-extname": "^0.1.0",
+    "proxyquire": "1.8.0",
     "rails-erb-loader": "^3.2.0",
     "raw-loader": "^0.5.1",
+    "reflect-metadata": "0.1.10",
     "rxjs": "5.0.1",
+    "stats-webpack-plugin": "^0.6.1",
     "style-loader": "^0.15.0",
     "systemjs": "0.19.40",
     "url-loader": "^0.5.8",
     "webpack": "^2.3.0",
+    "webpack-dev-server": "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-1.16.1.tgz",
     "webpack-merge": "^4.1.0",
-    "zone.js": "^0.8.4",
-    "reflect-metadata": "0.1.10",
-    "proxyquire": "1.8.0",
-    "webpack-dev-server": "^2.4.2"
+    "zone.js": "^0.8.12"
   },
   "devDependencies": {
     "jasmine": "^2.5.3",
